@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+### BUY ME A COFFEE APP
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Smart contract deployed on Goerli for the Week 2 challenge of  the course RoadToweb3 by Alchemy.
 
-Try running some of the following tasks:
+## URL: https://buymeacoffee-solidity-defi-tipping-app.miguel-angel425.repl.co/
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+![image](https://user-images.githubusercontent.com/51422943/168496078-8d84566c-96c8-4032-ae4e-d6e2f456ec91.png)
+
+![image](https://user-images.githubusercontent.com/51422943/168496046-0b89e146-38aa-4ee5-a61c-583af1ffbc02.png)
+
